@@ -29,6 +29,7 @@ import foldRight from './foldRight';
 import forEach from './forEach';
 import greaterOrEqual from './greaterOrEqual';
 import greaterThan from './greaterThan';
+import guard from './guard';
 import hasOwnProperty from './hasOwnProperty';
 import head from './head';
 import identity from './identity';
@@ -132,6 +133,7 @@ export {
   forEach,
   greaterOrEqual,
   greaterThan,
+  guard,
   hasOwnProperty,
   head,
   identity,
